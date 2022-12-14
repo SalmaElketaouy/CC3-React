@@ -1,0 +1,21 @@
+.Info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+  }
+  table {
+    border-collapse: collapse;
+  }
+  table,
+  table td {
+    border: 1px solid black;
+  }
+  table thead {
+    font-weight: bold;
+  }
+  table td {
+    padding: 5px;
+  }
+  
